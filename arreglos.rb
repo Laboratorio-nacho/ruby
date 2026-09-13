@@ -1,5 +1,5 @@
 # 1. Crear un arreglo indexado
-lenguajes = ["Ruby", "Python", "JavaScript", "PHP"]
+lenguajes = ["Ruby", "Python", "JavaScript", "PHP", "Java"]
 
 puts "--- Lista de Lenguajes ---"
 # Recorrer con un bloque .each
