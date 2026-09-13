@@ -1,7 +1,7 @@
 # Los hashes en Ruby son equivalentes a los arreglos asociativos de PHP
 usuario = {
   nombre: "Nacho",
-  edad: 21,
+  edad: 23,
   pais: "Chile"
 }
 
